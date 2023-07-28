@@ -1,10 +1,10 @@
 import mysql2 from "mysql2"; // Needed to fix sequelize issues with WebPack
 module.exports = {
   development: {
-    username: "tanluc1",
-    password: "tanluc1",
-    database: "testshopping2",
-    host: "localhost",
+    username: "sql6635735",
+    password: "1bmsJepqQz",
+    database: "sql6635735",
+    host: "sql6.freesqldatabase.com"",
     port: "3306",
     dialect: "mysql",
   },
